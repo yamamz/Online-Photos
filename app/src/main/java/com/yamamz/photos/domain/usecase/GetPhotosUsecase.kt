@@ -1,7 +1,7 @@
 package com.yamamz.photos.domain.usecase
 
 import com.yamamz.photos.core.Resource
-import com.yamamz.photos.data.repository.PhotoRepository
+import com.yamamz.photos.domain.PhotoRepository
 import com.yamamz.photos.domain.model.Image
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow

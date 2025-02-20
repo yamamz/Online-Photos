@@ -4,7 +4,7 @@ import android.app.Application
 import android.content.Context
 import androidx.room.Room
 import com.yamamz.photos.core.Constants
-import com.yamamz.photos.data.repository.PhotoRepository
+import com.yamamz.photos.domain.PhotoRepository
 import com.yamamz.photos.data.repository.PhotoRepositoryImpl
 import com.yamamz.photos.data.local.PhotoDatabase
 import com.yamamz.photos.data.network.PhotoApiService

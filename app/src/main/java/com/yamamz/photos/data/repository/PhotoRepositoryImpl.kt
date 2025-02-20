@@ -4,6 +4,7 @@ import com.yamamz.photos.domain.model.toDB
 import com.yamamz.photos.data.local.PhotoDatabase
 import com.yamamz.photos.data.local.toDomain
 import com.yamamz.photos.data.network.PhotoRemoteSource
+import com.yamamz.photos.domain.PhotoRepository
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import javax.inject.Inject
