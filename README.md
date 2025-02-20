@@ -1,6 +1,6 @@
 # Raymundo Melecio
 
-## Project Architecture MVVM and Using clean Code Architecture with 3 Layers the Data, Domain, Presentation
+## Project Architecture MVVM and Using clean Code Architecture with 3 Layers the Data, Domain, UI
 - Data Layer
   This Layer is responsible for any data transmission using local and remote
 - Domain Layer
